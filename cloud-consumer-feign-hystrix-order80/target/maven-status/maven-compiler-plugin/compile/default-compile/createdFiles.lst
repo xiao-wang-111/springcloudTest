@@ -1,0 +1,4 @@
+com\atguigu\springcloud\controller\OrderHystrixController.class
+com\atguigu\springcloud\OrderHystrixMain80.class
+com\atguigu\springcloud\service\OrderHystrixFallback.class
+com\atguigu\springcloud\service\OrderHystrixService.class
